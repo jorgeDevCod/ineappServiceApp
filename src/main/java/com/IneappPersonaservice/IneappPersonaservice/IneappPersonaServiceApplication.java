@@ -8,6 +8,9 @@ public class IneappPersonaServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IneappPersonaServiceApplication.class, args);
+
+		System.out.print("hellow word");
+
 	}
 
 }
